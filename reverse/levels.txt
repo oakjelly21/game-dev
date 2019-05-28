@@ -1,0 +1,42 @@
+Reach the red target and dont bump into the walls
+450
+450
+30
+30
+next level
+Or the obstacles
+800
+450
+30
+30
+
+200
+0
+50
+50
+
+500
+900
+50
+50
+next level
+last level
+800
+450
+30
+30
+40
+40
+30
+30
+70
+70
+30
+40
+100
+30
+30
+200
+40
+30
+30
